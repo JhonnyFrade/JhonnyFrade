@@ -3,7 +3,7 @@
 <div>
   
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=JhonnyFrade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyFrade&layout=compact&langs_count=16&theme=tokyonight"/>
+<img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonnyFrade&layout=compact&langs_count=16&theme=tokyonight"/>
 </div>
 <br>
 
@@ -30,5 +30,3 @@
       <img width="25" src="instagram.png">
     </a>
 </div>
-
-![Snake animation](https://github.com/JhonnyFrade/JhonnyFrade/blob/output/github-contribution-grid-snake.svg)
